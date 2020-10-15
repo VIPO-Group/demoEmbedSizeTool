@@ -1,8 +1,12 @@
-    ## Embed sizetool in an existing web site
-    
+## Embed sizetool in an existing web site
 
-    
-    ```html
+For this example, I juste use [bootstrap4](https://getbootstrap.com/). 
+
+You can directly embed sizetool in integrating the following code. 
+
+I projet an example here. 
+
+```html
     <div class="text-center">
         <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#modalSizeTool">SizeTool</button>
       </div>
@@ -38,4 +42,4 @@
       
         </div>
       </div>
-      ```
+```
