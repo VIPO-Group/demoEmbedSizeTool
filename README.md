@@ -4,7 +4,7 @@ For this example, I juste use [bootstrap4](https://getbootstrap.com/).
 
 You can directly embed sizetool in integrating the following code. 
 
-I projet an example here. 
+I projet an example [here](https://vipo-group.github.io/demoEmbedSizeTool/). 
 
 ```html
     <div class="text-center">
